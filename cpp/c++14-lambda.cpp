@@ -1,3 +1,6 @@
+/*
+  c++14中lambda表达式参数类型可以为auto类型
+*/
 # include <iostream>
 
 using std::cout;
