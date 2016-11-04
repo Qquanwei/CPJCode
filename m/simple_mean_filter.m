@@ -5,5 +5,5 @@ function img = simple_mean_filter(img)
 
   assert(mod(kernel,2)==1);  
   kernelMatrix = ones(kernel,kernel);
-  img = imfilter(img,kernelMatrix);
+  img = imfilter(img,kernelMatrix/sum(kernelMatrix(:)));
 end
