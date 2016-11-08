@@ -9,6 +9,6 @@ using std::cout;
 using std::endl;
 
 int main(){
-  assert(cout << " hello wprld !" << endl );
+  assert(cout << " hello world !" << endl );
   return -1;
 }
