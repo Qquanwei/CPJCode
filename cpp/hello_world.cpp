@@ -10,5 +10,5 @@ using std::endl;
 
 int main(){
   assert(cout << " hello wprld !" << endl );
-  return 0;
+  return -1;
 }
