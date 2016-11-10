@@ -15,13 +15,9 @@ int main()
         return -1;
     }
     namedWindow("my camera");
-    while(1)
+    Mat frame;
+    while(cap.read(frame)
     {
-        Mat frame;
-        if(!cap.read(frame))
-        {
-            return -2;
-        }
         imshow("my camera",frame);
         waitKey(30);
     }
