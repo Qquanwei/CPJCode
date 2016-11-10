@@ -1,10 +1,11 @@
+//主要打开摄像头，并显示采集到的图像
+
 #include <iostream>
-//#include "opencv2/opencv.hpp"
-//#include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/highgui/highgui.hpp"
 
 using namespace cv;
-using namespace std;
+using std::cout;
+using std::endl;
 
 int main()
 {
