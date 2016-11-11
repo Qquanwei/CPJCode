@@ -1,4 +1,5 @@
-// compile with c++17
+// compile with c++11
+// 图书管理程序
 # include <iostream>
 # include <vector>
 # include <fstream>
