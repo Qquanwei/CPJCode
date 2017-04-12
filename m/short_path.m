@@ -14,7 +14,7 @@
 % G = G' + G;
 
 function short = short_path(path,form,to)
-    points = struct();
+    points = [];
     for i = 1:size(path,1)
         % forword_short_path 代表已知的最短路径
         % already 代表该节点是否已经走过(避免环路)
