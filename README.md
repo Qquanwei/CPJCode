@@ -3,7 +3,9 @@
 
 ## TODOS
 
-### Python 可视化相关
 
-* [-] Numpy
-* [-] Matplotlib
+* Python 可视化相关
+
+- [ ] Numpy
+- [ ] Matplotlib
+-- [ ] plot
