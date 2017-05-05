@@ -3,8 +3,13 @@
 
 ## TODOS
 
+kaggle 是一个大数据学习有关的平台, 如果想要获取实验数据可以去该平台上获取。
 
 * Python 可视化相关
 
 - [ ] Numpy
 - [ ] Matplotlib
+
+* ML
+
+- [ ] tensorflow
