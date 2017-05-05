@@ -8,4 +8,3 @@
 
 - [ ] Numpy
 - [ ] Matplotlib
--- [ ] plot

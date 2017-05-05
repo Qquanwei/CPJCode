@@ -1,4 +1,5 @@
-a.out
 ~*
 .*
 *.autosave
+octave-workspace
+.*.out.*
